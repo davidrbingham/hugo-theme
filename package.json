@@ -1,9 +1,9 @@
 {
-	"name": "photophobia",
+	"name": "hugo-theme",
 	"version": "0.0.1",
-	"description": "A boring dark theme",
-	"repository": "https://github.com/setsevireon/photophobia.git",
-	"author": "setsevireon",
+	"description": "Theme for a simple blog",
+	"repository": "https://github.com/davidrbingham/hugo-theme.git",
+	"author": "davidrbingham",
 	"license": "MIT",
 	"private": true,
 	"scripts": {

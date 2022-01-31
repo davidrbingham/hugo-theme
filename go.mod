@@ -1,3 +1,3 @@
-module github.com/setsevireon/photophobia
+module github.com/davidrbingham/hugo-theme
 
 go 1.16

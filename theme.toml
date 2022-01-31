@@ -1,12 +1,12 @@
-name = "Photophobia"
+name = "hugo-theme"
 license = "MIT"
-licenselink = "https://github.com/setsevireon/photophobia/blob/master/LICENSE"
-description = "A boring dark theme"
-homepage = "https://github.com/setsevireon/photophobia"
+licenselink = "https://github.com/davidrbingham/hugo-theme/blob/main/LICENSE"
+description = "Basic Blog Theme"
+homepage = "https://github.com/davidrbingham/hugo-theme"
 tags = ["dark", "blog", "multilingual"]
 features = ["posts", "dark", "related content", "multilingual"]
-min_version = "0.80.0"
+min_version = "0.1.0"
 
 [author]
-  name = "setsevireon"
-  homepage = "https://setsevireon.dev"
+  name = "davidrbingham"
+  homepage = "https://davidbingham.me"
